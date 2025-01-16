@@ -1,2 +1,2 @@
 # neural-network
-Repository to have the on learnings on neural network
+Repository to keep the learnings on neural network
